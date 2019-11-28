@@ -1,6 +1,6 @@
 # Docker image that combines OpenJDK 11 and OpenCV 4.0
 
-The opencv-4.0.1.jar and the statically linked .so are installed in `/usr/local/share/java/opencv4`. 
+The opencv-4.1.2.jar and the statically linked .so are installed in `/usr/local/share/java/opencv4`. 
 
 # Example building a project
 To build an openCV 4.0.x & JDK11 based project, use this command (gradle project):
